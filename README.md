@@ -42,4 +42,4 @@ Por último, y gracias a FastAPI, podemos ver el resultado de nuestras consultas
 
 #
 Gracias!
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)# Proyecto-Individual-1
